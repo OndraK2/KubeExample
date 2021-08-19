@@ -1,2 +1,0 @@
-# KubeExample
-Kubernetes Example
